@@ -1,0 +1,57 @@
+﻿source,target,relation,directed
+Percy,Poseidon,is_son_of,TRUE
+Percy,Annabeth,is_friend_with,FALSE
+Percy,Grover,is_friend_with,FALSE
+Percy,Thalia,is_friend_with,FALSE
+Percy,Luke,betrayed_by,TRUE
+Percy,Kronos,is_enemy_of,FALSE
+Percy,Camp Half-Blood,travels_to,TRUE
+Percy,Underworld,travels_to,TRUE
+Percy,Olympus,travels_to,TRUE
+Percy,Labyrinth,travels_to,TRUE
+Percy,Lightning Bolt,accused_of_stealing,TRUE
+Percy,Annabeth,has_romantic_tension_with,FALSE
+Percy,Chiron,assigned_quest_by,TRUE
+Percy,Sally Jackson,is_son_of,TRUE
+Percy,Gabe Ugliano,is_stepson_of,TRUE
+Percy,Clarisse,is_rival_with,FALSE
+Percy,Ares,is_enemy_of,FALSE
+Percy,Medusa,defeats,TRUE
+Clarisse,Ares,is_daughter_of,TRUE
+Annabeth,Athena,is_daughter_of,TRUE
+Annabeth,Percy,is_friend_with,FALSE
+Annabeth,Grover,is_friend_with,FALSE
+Annabeth,Thalia,is_friend_with,FALSE
+Annabeth,Chiron,trained_by,TRUE
+Luke,Hermes,is_son_of,TRUE
+Luke,Camp Half-Blood,betrays,TRUE
+Luke,Kronos,serves,TRUE
+Luke,Percy,fights_with,FALSE
+Grover,Percy,is_satyr_guardian_of,TRUE
+Grover,Labyrinth,travels_to,TRUE
+Camp Half-Blood,Demigods,hosts,TRUE
+Camp Half-Blood,Chiron,directed_by,TRUE
+Camp Half-Blood,Mr. D,directed_by,TRUE
+Hunters of Artemis,Artemis,led_by,TRUE
+Hunters of Artemis,Bianca,includes,TRUE
+Hunters of Artemis,Zoë Nightshade,includes,TRUE
+Hunters of Artemis,Males,does_not_allow,TRUE
+Tyson,Percy,is_half_brother_of,TRUE
+Tyson,Sea of Monsters,travels_to,TRUE
+Nico,Bianca,is_brother_of,TRUE
+Nico,Percy,is_friend_with,FALSE
+Calypso,Percy,meets,FALSE
+Zeus,Olympians,belongs_to_group,TRUE
+Hades,Olympians,belongs_to_group,TRUE
+Ares,Olympians,belongs_to_group,TRUE
+Kronos,Titans,belongs_to_group,TRUE
+Titans,Olympians,at_war_with,FALSE
+Golden Fleece,Sea of Monsters,located_in,TRUE
+Percy,Golden Fleece,retrieves,TRUE
+Helm of Darkness,Hades,belongs_to,TRUE
+Percy,Helm of Darkness,returns_to_owner,TRUE
+Percy,Lotus Casino,visits,TRUE
+Annabeth,Lotus Casino,visits,TRUE
+Grover,Lotus Casino,visits,TRUE
+Zeus,Poseidon,blames,TRUE
+Hades,Zeus,is_angered_by,TRUE

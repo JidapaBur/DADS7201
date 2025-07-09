@@ -1,0 +1,32 @@
+id,label
+Percy,Person
+Annabeth,Person
+Grover,Person
+Thalia,Person
+Luke,Person
+Tyson,Person
+Nico,Person
+Bianca,Person
+Calypso,Person
+Chiron,Person
+Mr. D,Person
+Poseidon,God
+Zeus,God
+Hades,God
+Athena,God
+Ares,God
+Hermes,God
+Kronos,Titan
+Artemis,Goddess
+Camp Half-Blood,Location
+Olympus,Location
+Underworld,Location
+Sea of Monsters,Location
+Labyrinth,Location
+Lightning Bolt,Item
+Helm of Darkness,Item
+Golden Fleece,Item
+Hunters of Artemis,Group
+Titans,Group
+Olympians,Group
+Demigods,Group
